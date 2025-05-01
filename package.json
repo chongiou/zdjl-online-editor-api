@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "lnioxx <lnioxx@qq.com>",
+  "author": "chongiou <chongiou@qq.com>",
   "type": "module",
   "main": "dist/index",
   "types": "dist/index",
